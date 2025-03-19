@@ -1,2 +1,2 @@
-# Certificados
-Certificados de cursos concluídos e eventos participados.
+# Certificados/Certificates
+Certificados de cursos concluídos e eventos participados/Certificates of completed courses and events attended.
